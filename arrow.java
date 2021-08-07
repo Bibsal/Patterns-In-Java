@@ -33,7 +33,7 @@ public class arrow {
 			}
 		System.out.println();
 		}
-		
+		scn.close();
 		
 
 	}
